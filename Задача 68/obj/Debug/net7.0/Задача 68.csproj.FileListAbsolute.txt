@@ -1,0 +1,15 @@
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\bin\Debug\net7.0\Задача 68.exe
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\bin\Debug\net7.0\Задача 68.deps.json
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\bin\Debug\net7.0\Задача 68.runtimeconfig.json
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\bin\Debug\net7.0\Задача 68.dll
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\bin\Debug\net7.0\Задача 68.pdb
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\obj\Debug\net7.0\Задача 68.csproj.AssemblyReference.cache
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\obj\Debug\net7.0\Задача 68.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\obj\Debug\net7.0\Задача 68.AssemblyInfoInputs.cache
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\obj\Debug\net7.0\Задача 68.AssemblyInfo.cs
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\obj\Debug\net7.0\Задача 68.csproj.CoreCompileInputs.cache
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\obj\Debug\net7.0\Задача 68.dll
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\obj\Debug\net7.0\refint\Задача 68.dll
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\obj\Debug\net7.0\Задача 68.pdb
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\obj\Debug\net7.0\Задача 68.genruntimeconfig.cache
+D:\Домашняя работа\4495\HW seminar 9\Задача 68\obj\Debug\net7.0\ref\Задача 68.dll
